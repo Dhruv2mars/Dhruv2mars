@@ -11,7 +11,7 @@
       <stop offset='100%' stop-color='#F6C177'/>
     </linearGradient>
     <style>
-      @import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;600;700&display=swap');
+      @import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;600;700&amp;display=swap');
       .headline { font-family: 'Space Grotesk', sans-serif; font-size: 28px; font-weight: 700; fill: #F9FAFF; letter-spacing: 0.12em; text-anchor: middle; }
       .sub { font-family: 'Space Grotesk', sans-serif; font-size: 16px; font-weight: 500; fill: #E0E7FF; letter-spacing: 0.08em; text-anchor: middle; }
     </style>

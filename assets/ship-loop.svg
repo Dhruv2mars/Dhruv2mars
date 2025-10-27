@@ -10,7 +10,7 @@
       <stop offset='100%' stop-color='#F6C177'/>
     </linearGradient>
     <style>
-      @import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;600&display=swap');
+      @import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;600&amp;display=swap');
       .stage { fill: rgba(255,255,255,0.04); stroke: rgba(255,255,255,0.15); stroke-width: 1.4; rx: 22; }
       .stage-text { font-family: 'Space Grotesk', sans-serif; font-size: 18px; font-weight: 600; fill: #F8F9FF; text-anchor: middle; }
       .arrow { stroke: url(#loopStroke); stroke-width: 3; marker-end: url(#arrowHead); }

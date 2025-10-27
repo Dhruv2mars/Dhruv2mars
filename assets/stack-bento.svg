@@ -10,7 +10,7 @@
       <feComposite in='SourceGraphic'/>
     </filter>
     <style>
-      @import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;600&display=swap');
+      @import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;600&amp;display=swap');
       .frame { fill: rgba(14,18,42,0.92); stroke: rgba(255,255,255,0.08); stroke-width: 1.1; rx: 24; }
       .title { font-family: 'Space Grotesk', sans-serif; font-size: 20px; font-weight: 600; fill: #EDECFF; letter-spacing: 0.08em; text-anchor: middle; }
       .badge { fill: rgba(255,255,255,0.04); stroke: rgba(255,255,255,0.18); stroke-width: 0.9; rx: 14; }
