@@ -31,7 +31,7 @@
     <rect x='620' y='46' width='150' height='130' fill='url(#accent)' opacity='0.25'/>
     <circle cx='695' cy='111' r='54' fill='rgba(255,255,255,0.06)'/>
     <circle cx='695' cy='111' r='38' fill='rgba(255,255,255,0.12)'/>
-    <text x='695' y='124' text-anchor='middle' font-family=\"'Space Grotesk','Segoe UI','Helvetica Neue',sans-serif\" font-size='38' font-weight='700' fill='#FDF2FF'>🚀</text>
+    <text x='695' y='124' text-anchor='middle' font-family="Space Grotesk, 'Segoe UI', 'Helvetica Neue', sans-serif" font-size='38' font-weight='700' fill='#FDF2FF'>🚀</text>
   </g>
   <rect x='620' y='46' width='150' height='130' fill='none' stroke='url(#accent)' stroke-width='2.6' rx='28'/>
 </svg>
