@@ -27,6 +27,11 @@
   <text x='60' y='120' class='body'>👋 Hey, I’m Dhruv Sharma — an AI-first builder and prototype junkie.</text>
   <text x='60' y='150' class='body'>⚡️ I turn half-baked ideas into working products — fast.</text>
   <text x='60' y='180' class='body'>🔁 I ship, break, and rebuild until things just work.</text>
-  <image href='https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDlldTBienhsM3AycHNjOHV0cGU3YmRvbjN0d25nY20xZWR0eXd4MyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l3vR1XkTJvNwtcA9C/giphy.gif' x='620' y='46' width='150' height='130' clip-path='url(#avatarClip)' preserveAspectRatio='xMidYMid slice'/>
+  <g clip-path='url(#avatarClip)'>
+    <rect x='620' y='46' width='150' height='130' fill='url(#accent)' opacity='0.25'/>
+    <circle cx='695' cy='111' r='54' fill='rgba(255,255,255,0.06)'/>
+    <circle cx='695' cy='111' r='38' fill='rgba(255,255,255,0.12)'/>
+    <text x='695' y='124' text-anchor='middle' font-family=\"'Space Grotesk','Segoe UI','Helvetica Neue',sans-serif\" font-size='38' font-weight='700' fill='#FDF2FF'>🚀</text>
+  </g>
   <rect x='620' y='46' width='150' height='130' fill='none' stroke='url(#accent)' stroke-width='2.6' rx='28'/>
 </svg>

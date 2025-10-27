@@ -51,7 +51,3 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:6F00FF,100:FF4D4D&section=footer" alt="Footer wave">
 </p>
-
-<p align="center">
-  <img src="https://github.com/Dhruv2mars/Dhruv2mars/blob/main/assets/test-simple.svg?raw=1" alt="Test simple" width="200">
-</p>
