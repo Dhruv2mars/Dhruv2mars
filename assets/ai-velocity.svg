@@ -13,12 +13,11 @@
       </feMerge>
     </filter>
     <style>
-      @import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;600;700&amp;display=swap');
       .wrapper { fill: rgba(10,12,24,0.85); stroke: rgba(255,255,255,0.08); stroke-width: 1.2; rx: 26; }
-      .title { font-family: 'Space Grotesk', sans-serif; font-size: 24px; font-weight: 700; fill: #F8F9FF; letter-spacing: 0.1em; text-anchor: middle; }
-      .subtitle { font-family: 'Space Grotesk', sans-serif; font-size: 14px; font-weight: 500; fill: #C9CBF5; letter-spacing: 0.2em; text-anchor: middle; }
+      .title { font-family: 'Space Grotesk','Segoe UI','Helvetica Neue',sans-serif; font-size: 24px; font-weight: 700; fill: #F8F9FF; letter-spacing: 0.1em; text-anchor: middle; }
+      .subtitle { font-family: 'Space Grotesk','Segoe UI','Helvetica Neue',sans-serif; font-size: 14px; font-weight: 500; fill: #C9CBF5; letter-spacing: 0.2em; text-anchor: middle; }
       .badge { fill: rgba(148,163,184,0.16); stroke: rgba(255,255,255,0.28); stroke-width: 0.9; rx: 14; }
-      .badge-text { font-family: 'Space Grotesk', sans-serif; font-size: 14px; font-weight: 600; fill: #FDFDFD; letter-spacing: 0.05em; text-anchor: middle; }
+      .badge-text { font-family: 'Space Grotesk','Segoe UI','Helvetica Neue',sans-serif; font-size: 14px; font-weight: 600; fill: #FDFDFD; letter-spacing: 0.05em; text-anchor: middle; }
     </style>
   </defs>
   <rect width='720' height='160' fill='url(#grad)' opacity='0.2'/>

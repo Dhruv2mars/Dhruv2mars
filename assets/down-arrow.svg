@@ -5,8 +5,7 @@
       <stop offset='100%' stop-color='#8A2BE2'/>
     </linearGradient>
     <style>
-      @import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@600&amp;display=swap');
-      .txt { font-family: 'Space Grotesk', sans-serif; font-size: 14px; font-weight: 600; fill: #FDF7FF; letter-spacing: 0.08em; text-anchor: middle; }
+      .txt { font-family: 'Space Grotesk','Segoe UI','Helvetica Neue',sans-serif; font-size: 14px; font-weight: 600; fill: #FDF7FF; letter-spacing: 0.08em; text-anchor: middle; }
     </style>
   </defs>
   <path d='M60 10 L110 10 Q115 10 112 15 L68 52 Q63 57 60 57 Q57 57 52 52 L8 15 Q5 10 10 10 Z' fill='url(#arrowGrad)' opacity='0.92'/>

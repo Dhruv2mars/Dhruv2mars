@@ -14,9 +14,8 @@
       <feGaussianBlur stdDeviation='6'/>
     </filter>
     <style>
-      @import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;600;700&amp;display=swap');
-      .title { font-family: 'Space Grotesk', sans-serif; font-size: 44px; font-weight: 700; fill: #F8F9FF; letter-spacing: 0.14em; text-anchor: middle; }
-      .subtitle { font-family: 'Space Grotesk', sans-serif; font-size: 18px; font-weight: 500; fill: #C7C9FA; letter-spacing: 0.28em; text-anchor: middle; }
+      .title { font-family: 'Space Grotesk','Segoe UI','Helvetica Neue',sans-serif; font-size: 44px; font-weight: 700; fill: #F8F9FF; letter-spacing: 0.14em; text-anchor: middle; }
+      .subtitle { font-family: 'Space Grotesk','Segoe UI','Helvetica Neue',sans-serif; font-size: 18px; font-weight: 500; fill: #C7C9FA; letter-spacing: 0.28em; text-anchor: middle; }
     </style>
   </defs>
   <rect width='960' height='160' rx='34' fill='url(#tagBg)' stroke='url(#tagStroke)' stroke-width='3'/>

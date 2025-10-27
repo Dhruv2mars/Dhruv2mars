@@ -16,10 +16,9 @@
       <feDropShadow dx='0' dy='14' stdDeviation='18' flood-color='rgba(138,43,226,0.35)'/>
     </filter>
     <style>
-      @import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;600;700&amp;display=swap');
       .panel { fill: rgba(13,18,38,0.92); stroke: rgba(255,255,255,0.08); stroke-width: 1.2; rx: 28; }
-      .title { font-family: 'Space Grotesk', sans-serif; font-size: 24px; font-weight: 700; fill: #F8FAFF; letter-spacing: 0.08em; }
-      .body { font-family: 'Space Grotesk', sans-serif; font-size: 18px; font-weight: 500; fill: #E5E7FF; letter-spacing: 0.01em; }
+      .title { font-family: 'Space Grotesk','Segoe UI','Helvetica Neue',sans-serif; font-size: 24px; font-weight: 700; fill: #F8FAFF; letter-spacing: 0.08em; }
+      .body { font-family: 'Space Grotesk','Segoe UI','Helvetica Neue',sans-serif; font-size: 18px; font-weight: 500; fill: #E5E7FF; letter-spacing: 0.01em; }
     </style>
   </defs>
   <rect width='850' height='220' fill='url(#bg)' rx='32'/>

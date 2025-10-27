@@ -10,11 +10,10 @@
       <feComposite in='SourceGraphic'/>
     </filter>
     <style>
-      @import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;600&amp;display=swap');
       .frame { fill: rgba(14,18,42,0.92); stroke: rgba(255,255,255,0.08); stroke-width: 1.1; rx: 24; }
-      .title { font-family: 'Space Grotesk', sans-serif; font-size: 20px; font-weight: 600; fill: #EDECFF; letter-spacing: 0.08em; text-anchor: middle; }
+      .title { font-family: 'Space Grotesk','Segoe UI','Helvetica Neue',sans-serif; font-size: 20px; font-weight: 600; fill: #EDECFF; letter-spacing: 0.08em; text-anchor: middle; }
       .badge { fill: rgba(255,255,255,0.04); stroke: rgba(255,255,255,0.18); stroke-width: 0.9; rx: 14; }
-      .badge-text { font-family: 'Space Grotesk', sans-serif; font-size: 13px; font-weight: 500; fill: #F8FAFC; letter-spacing: 0.04em; text-anchor: middle; }
+      .badge-text { font-family: 'Space Grotesk','Segoe UI','Helvetica Neue',sans-serif; font-size: 13px; font-weight: 500; fill: #F8FAFC; letter-spacing: 0.04em; text-anchor: middle; }
     </style>
   </defs>
   <rect width='720' height='160' fill='url(#grad2)' opacity='0.85'/>
