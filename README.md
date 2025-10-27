@@ -3,23 +3,23 @@
 </p>
 
 <p align="center">
-  <img src="assets/tagline.svg" alt="Ship what users actually need">
+  <img src="https://raw.githubusercontent.com/Dhruv2mars/Dhruv2mars/main/assets/tagline.svg" alt="Ship what users actually need">
 </p>
 
 <p align="center">
-  <img src="assets/about-card.svg" alt="About Dhruv Sharma card">
+  <img src="https://raw.githubusercontent.com/Dhruv2mars/Dhruv2mars/main/assets/about-card.svg" alt="About Dhruv Sharma card">
 </p>
 
 <p align="center">
-  <img src="assets/manifesto-strip.svg" alt="Build Ship Learn repeat strip">
+  <img src="https://raw.githubusercontent.com/Dhruv2mars/Dhruv2mars/main/assets/manifesto-strip.svg" alt="Build Ship Learn repeat strip">
 </p>
 
 <p align="center">
-  <img src="assets/ai-velocity.svg" alt="AI-first velocity stack">
+  <img src="https://raw.githubusercontent.com/Dhruv2mars/Dhruv2mars/main/assets/ai-velocity.svg" alt="AI-first velocity stack">
 </p>
 
 <p align="center">
-  <img src="assets/stack-bento.svg" alt="Ship-ready experience stack">
+  <img src="https://raw.githubusercontent.com/Dhruv2mars/Dhruv2mars/main/assets/stack-bento.svg" alt="Ship-ready experience stack">
 </p>
 
 <p align="center">
@@ -27,7 +27,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/ship-loop.svg" alt="Ship loop diagram">
+  <img src="https://raw.githubusercontent.com/Dhruv2mars/Dhruv2mars/main/assets/ship-loop.svg" alt="Ship loop diagram">
 </p>
 
 <p align="center">
@@ -45,7 +45,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/down-arrow.svg" alt="Pinned repos arrow" width="120">
+  <img src="https://raw.githubusercontent.com/Dhruv2mars/Dhruv2mars/main/assets/down-arrow.svg" alt="Pinned repos arrow" width="120">
 </p>
 
 <p align="center">
