@@ -3,27 +3,19 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/Dhruv2mars/Dhruv2mars/blob/main/assets/tagline.svg?raw=1" alt="Ship what users actually need">
-</p>
-
-<p align="center">
   <img src="https://github.com/Dhruv2mars/Dhruv2mars/blob/main/assets/about-card.svg?raw=1" alt="About Dhruv Sharma card">
 </p>
 
 <p align="center">
-  <img src="https://github.com/Dhruv2mars/Dhruv2mars/blob/main/assets/manifesto-strip.svg?raw=1" alt="Build Ship Learn repeat strip">
+  <img src="https://github.com/Dhruv2mars/Dhruv2mars/blob/main/assets/ship-banner.svg?raw=1" alt="Ship what users actually need banner">
 </p>
 
 <p align="center">
-  <img src="https://github.com/Dhruv2mars/Dhruv2mars/blob/main/assets/ai-velocity.svg?raw=1" alt="AI-first velocity stack">
+  <img src="https://github.com/Dhruv2mars/Dhruv2mars/blob/main/assets/ai-velocity.svg?raw=1" alt="The AI stack">
 </p>
 
 <p align="center">
-  <img src="https://github.com/Dhruv2mars/Dhruv2mars/blob/main/assets/stack-bento.svg?raw=1" alt="Ship-ready experience stack">
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,nodejs,python,fastapi,postgres,prisma,tailwind,threejs,figma,notion&perline=6&theme=dark" alt="Skill icons">
+  <img src="https://github.com/Dhruv2mars/Dhruv2mars/blob/main/assets/stack-bento.svg?raw=1" alt="Tools and technology experience">
 </p>
 
 <p align="center">
@@ -38,14 +30,6 @@
   <a href="https://www.linkedin.com/in/dhruv2mars" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:dhruv2mars@gmail.com"><img src="https://img.shields.io/badge/Email-FF4D4D?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://x.com/Dhruv2mars" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/DM%20me%20for%20a%204h%20prototype-6F00FF?style=for-the-badge&logo=zapier&logoColor=white" alt="Prototype CTA badge">
-</p>
-
-<p align="center">
-  <img src="https://github.com/Dhruv2mars/Dhruv2mars/blob/main/assets/down-arrow.svg?raw=1" alt="Pinned repos arrow" width="120">
 </p>
 
 <p align="center">
