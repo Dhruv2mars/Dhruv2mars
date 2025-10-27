@@ -3,23 +3,23 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Dhruv2mars/Dhruv2mars/main/assets/tagline.svg" alt="Ship what users actually need">
+  <img src="https://github.com/Dhruv2mars/Dhruv2mars/blob/main/assets/tagline.svg?raw=1" alt="Ship what users actually need">
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Dhruv2mars/Dhruv2mars/main/assets/about-card.svg" alt="About Dhruv Sharma card">
+  <img src="https://github.com/Dhruv2mars/Dhruv2mars/blob/main/assets/about-card.svg?raw=1" alt="About Dhruv Sharma card">
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Dhruv2mars/Dhruv2mars/main/assets/manifesto-strip.svg" alt="Build Ship Learn repeat strip">
+  <img src="https://github.com/Dhruv2mars/Dhruv2mars/blob/main/assets/manifesto-strip.svg?raw=1" alt="Build Ship Learn repeat strip">
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Dhruv2mars/Dhruv2mars/main/assets/ai-velocity.svg" alt="AI-first velocity stack">
+  <img src="https://github.com/Dhruv2mars/Dhruv2mars/blob/main/assets/ai-velocity.svg?raw=1" alt="AI-first velocity stack">
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Dhruv2mars/Dhruv2mars/main/assets/stack-bento.svg" alt="Ship-ready experience stack">
+  <img src="https://github.com/Dhruv2mars/Dhruv2mars/blob/main/assets/stack-bento.svg?raw=1" alt="Ship-ready experience stack">
 </p>
 
 <p align="center">
@@ -27,7 +27,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Dhruv2mars/Dhruv2mars/main/assets/ship-loop.svg" alt="Ship loop diagram">
+  <img src="https://github.com/Dhruv2mars/Dhruv2mars/blob/main/assets/ship-loop.svg?raw=1" alt="Ship loop diagram">
 </p>
 
 <p align="center">
@@ -45,7 +45,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Dhruv2mars/Dhruv2mars/main/assets/down-arrow.svg" alt="Pinned repos arrow" width="120">
+  <img src="https://github.com/Dhruv2mars/Dhruv2mars/blob/main/assets/down-arrow.svg?raw=1" alt="Pinned repos arrow" width="120">
 </p>
 
 <p align="center">
