@@ -1,0 +1,40 @@
+<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 720 160' preserveAspectRatio='xMidYMid meet'>
+  <defs>
+    <linearGradient id='grad' x1='0%' y1='0%' x2='100%' y2='0%'>
+      <stop offset='0%' stop-color='#8A2BE2'/>
+      <stop offset='50%' stop-color='#FF4D4D'/>
+      <stop offset='100%' stop-color='#F6C177'/>
+    </linearGradient>
+    <filter id='glow' x='-30%' y='-30%' width='160%' height='160%'>
+      <feGaussianBlur stdDeviation='12' result='coloredBlur'/>
+      <feMerge>
+        <feMergeNode in='coloredBlur'/>
+        <feMergeNode in='SourceGraphic'/>
+      </feMerge>
+    </filter>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;600;700&display=swap');
+      .wrapper { fill: rgba(10,12,24,0.85); stroke: rgba(255,255,255,0.08); stroke-width: 1.2; rx: 26; }
+      .title { font-family: 'Space Grotesk', sans-serif; font-size: 24px; font-weight: 700; fill: #F8F9FF; letter-spacing: 0.1em; text-anchor: middle; }
+      .subtitle { font-family: 'Space Grotesk', sans-serif; font-size: 14px; font-weight: 500; fill: #C9CBF5; letter-spacing: 0.2em; text-anchor: middle; }
+      .badge { fill: rgba(148,163,184,0.16); stroke: rgba(255,255,255,0.28); stroke-width: 0.9; rx: 14; }
+      .badge-text { font-family: 'Space Grotesk', sans-serif; font-size: 14px; font-weight: 600; fill: #FDFDFD; letter-spacing: 0.05em; text-anchor: middle; }
+    </style>
+  </defs>
+  <rect width='720' height='160' fill='url(#grad)' opacity='0.2'/>
+  <rect x='24' y='20' width='672' height='120' class='wrapper' filter='url(#glow)'/>
+  <text x='360' y='68' class='title'>AI-FIRST VELOCITY STACK</text>
+  <text x='360' y='94' class='subtitle'>CO-PILOTED BUILD CYCLE</text>
+  <g transform='translate(360,116)'>
+    <rect x='-300' y='-22' width='112' height='46' class='badge'/>
+    <text x='-244' y='4' class='badge-text'>Copilot</text>
+    <rect x='-180' y='-22' width='112' height='46' class='badge'/>
+    <text x='-124' y='4' class='badge-text'>Claude Code</text>
+    <rect x='-60' y='-22' width='112' height='46' class='badge'/>
+    <text x='-4' y='4' class='badge-text'>Cursor</text>
+    <rect x='60' y='-22' width='112' height='46' class='badge'/>
+    <text x='116' y='4' class='badge-text'>Codex CLI</text>
+    <rect x='180' y='-22' width='112' height='46' class='badge'/>
+    <text x='236' y='4' class='badge-text'>Ollama</text>
+  </g>
+</svg>

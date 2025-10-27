@@ -1,0 +1,26 @@
+<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 960 160' preserveAspectRatio='xMidYMid meet'>
+  <defs>
+    <linearGradient id='tagBg' x1='0%' y1='0%' x2='100%' y2='100%'>
+      <stop offset='0%' stop-color='#1A103D'/>
+      <stop offset='50%' stop-color='#301888'/>
+      <stop offset='100%' stop-color='#46145D'/>
+    </linearGradient>
+    <linearGradient id='tagStroke' x1='0%' y1='0%' x2='100%' y2='0%'>
+      <stop offset='0%' stop-color='#6F00FF'/>
+      <stop offset='50%' stop-color='#FF4D4D'/>
+      <stop offset='100%' stop-color='#F6C177'/>
+    </linearGradient>
+    <filter id='tagBlur' x='-5%' y='-5%' width='110%' height='110%'>
+      <feGaussianBlur stdDeviation='6'/>
+    </filter>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;600;700&display=swap');
+      .title { font-family: 'Space Grotesk', sans-serif; font-size: 44px; font-weight: 700; fill: #F8F9FF; letter-spacing: 0.14em; text-anchor: middle; }
+      .subtitle { font-family: 'Space Grotesk', sans-serif; font-size: 18px; font-weight: 500; fill: #C7C9FA; letter-spacing: 0.28em; text-anchor: middle; }
+    </style>
+  </defs>
+  <rect width='960' height='160' rx='34' fill='url(#tagBg)' stroke='url(#tagStroke)' stroke-width='3'/>
+  <rect x='22' y='22' width='916' height='116' rx='28' fill='rgba(7,9,23,0.65)' filter='url(#tagBlur)' />
+  <text x='480' y='88' class='title'>SHIP WHAT USERS ACTUALLY NEED</text>
+  <text x='480' y='122' class='subtitle'>AI-FIRST • HIGH ITERATION • FOUNDER ENERGY</text>
+</svg>

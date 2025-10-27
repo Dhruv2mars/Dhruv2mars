@@ -1,0 +1,14 @@
+<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 120 60' preserveAspectRatio='xMidYMid meet'>
+  <defs>
+    <linearGradient id='arrowGrad' x1='0%' y1='0%' x2='100%' y2='0%'>
+      <stop offset='0%' stop-color='#FF4D4D'/>
+      <stop offset='100%' stop-color='#8A2BE2'/>
+    </linearGradient>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@600&display=swap');
+      .txt { font-family: 'Space Grotesk', sans-serif; font-size: 14px; font-weight: 600; fill: #FDF7FF; letter-spacing: 0.08em; text-anchor: middle; }
+    </style>
+  </defs>
+  <path d='M60 10 L110 10 Q115 10 112 15 L68 52 Q63 57 60 57 Q57 57 52 52 L8 15 Q5 10 10 10 Z' fill='url(#arrowGrad)' opacity='0.92'/>
+  <text x='60' y='34' class='txt'>PINNED MAGIC</text>
+</svg>

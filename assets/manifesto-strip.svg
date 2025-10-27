@@ -1,0 +1,22 @@
+<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 900 140' preserveAspectRatio='xMidYMid meet'>
+  <defs>
+    <linearGradient id='bg' x1='0%' y1='0%' x2='100%' y2='0%'>
+      <stop offset='0%' stop-color='#010314'/>
+      <stop offset='50%' stop-color='#111432'/>
+      <stop offset='100%' stop-color='#1F1546'/>
+    </linearGradient>
+    <linearGradient id='stroke' x1='0%' y1='0%' x2='100%' y2='0%'>
+      <stop offset='0%' stop-color='#FF4D4D'/>
+      <stop offset='50%' stop-color='#8A2BE2'/>
+      <stop offset='100%' stop-color='#F6C177'/>
+    </linearGradient>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;600;700&display=swap');
+      .headline { font-family: 'Space Grotesk', sans-serif; font-size: 28px; font-weight: 700; fill: #F9FAFF; letter-spacing: 0.12em; text-anchor: middle; }
+      .sub { font-family: 'Space Grotesk', sans-serif; font-size: 16px; font-weight: 500; fill: #E0E7FF; letter-spacing: 0.08em; text-anchor: middle; }
+    </style>
+  </defs>
+  <rect width='900' height='140' fill='url(#bg)' rx='26' stroke='url(#stroke)' stroke-width='2.6'/>
+  <text x='450' y='72' class='headline'>BUILD • SHIP • LEARN • REPEAT</text>
+  <text x='450' y='104' class='sub'>Move fast to learn faster · Theo inspired ship-first loops · YC-ready energy</text>
+</svg>

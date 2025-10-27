@@ -1,0 +1,35 @@
+<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 720 160' preserveAspectRatio='xMidYMid meet'>
+  <defs>
+    <linearGradient id='grad2' x1='0%' y1='0%' x2='100%' y2='0%'>
+      <stop offset='0%' stop-color='#1e1b4b'/>
+      <stop offset='100%' stop-color='#0f172a'/>
+    </linearGradient>
+    <filter id='innerGlow' x='-30%' y='-30%' width='160%' height='160%'>
+      <feGaussianBlur stdDeviation='10' result='blur'/>
+      <feComposite in='blur' in2='SourceAlpha' operator='out'/>
+      <feComposite in='SourceGraphic'/>
+    </filter>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;600&display=swap');
+      .frame { fill: rgba(14,18,42,0.92); stroke: rgba(255,255,255,0.08); stroke-width: 1.1; rx: 24; }
+      .title { font-family: 'Space Grotesk', sans-serif; font-size: 20px; font-weight: 600; fill: #EDECFF; letter-spacing: 0.08em; text-anchor: middle; }
+      .badge { fill: rgba(255,255,255,0.04); stroke: rgba(255,255,255,0.18); stroke-width: 0.9; rx: 14; }
+      .badge-text { font-family: 'Space Grotesk', sans-serif; font-size: 13px; font-weight: 500; fill: #F8FAFC; letter-spacing: 0.04em; text-anchor: middle; }
+    </style>
+  </defs>
+  <rect width='720' height='160' fill='url(#grad2)' opacity='0.85'/>
+  <rect x='24' y='20' width='672' height='120' class='frame' filter='url(#innerGlow)'/>
+  <text x='360' y='60' class='title'>SHIP-READY EXPERIENCE STACK</text>
+  <g transform='translate(360,110)'>
+    <rect x='-300' y='-22' width='120' height='46' class='badge'/>
+    <text x='-240' y='4' class='badge-text'>Next.js</text>
+    <rect x='-168' y='-22' width='120' height='46' class='badge'/>
+    <text x='-108' y='4' class='badge-text'>TypeScript</text>
+    <rect x='-36' y='-22' width='120' height='46' class='badge'/>
+    <text x='24' y='4' class='badge-text'>Framer Motion</text>
+    <rect x='96' y='-22' width='120' height='46' class='badge'/>
+    <text x='156' y='4' class='badge-text'>React Three Fiber</text>
+    <rect x='228' y='-22' width='120' height='46' class='badge'/>
+    <text x='288' y='4' class='badge-text'>FastAPI · PG</text>
+  </g>
+</svg>
