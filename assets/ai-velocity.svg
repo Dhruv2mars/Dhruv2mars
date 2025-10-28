@@ -22,16 +22,19 @@
   <rect width='720' height='160' fill='url(#grad)' opacity='0.2'/>
   <rect x='24' y='20' width='672' height='120' class='wrapper' filter='url(#glow)'/>
   <text x='360' y='64' class='title'>THE AI STACK</text>
-  <g transform='translate(360,112)'>
-    <rect x='-332' y='-20' width='120' height='40' class='badge'/>
-    <text x='-272' y='0' class='badge-text'>Copilot</text>
-    <rect x='-196' y='-20' width='120' height='40' class='badge'/>
-    <text x='-136' y='0' class='badge-text'>Claude Code</text>
-    <rect x='-60' y='-20' width='120' height='40' class='badge'/>
-    <text x='0' y='0' class='badge-text'>Cursor</text>
-    <rect x='76' y='-20' width='120' height='40' class='badge'/>
-    <text x='136' y='0' class='badge-text'>Codex CLI</text>
-    <rect x='212' y='-20' width='120' height='40' class='badge'/>
-    <text x='272' y='0' class='badge-text'>Ollama</text>
+  <!-- Four evenly spaced badges inside the inner panel -->
+  <g transform='translate(360,114)'>
+    <!-- Cursor -->
+    <rect x='-276' y='-20' width='120' height='40' class='badge'/>
+    <text x='-216' y='0' class='badge-text'>Cursor</text>
+    <!-- Claude Code -->
+    <rect x='-132' y='-20' width='120' height='40' class='badge'/>
+    <text x='-72' y='0' class='badge-text'>Claude Code</text>
+    <!-- Codex -->
+    <rect x='12' y='-20' width='120' height='40' class='badge'/>
+    <text x='72' y='0' class='badge-text'>Codex</text>
+    <!-- Copilot -->
+    <rect x='156' y='-20' width='120' height='40' class='badge'/>
+    <text x='216' y='0' class='badge-text'>Copilot</text>
   </g>
 </svg>
