@@ -18,5 +18,5 @@
   <rect x='26' y='26' width='888' height='168' class='frame'/>
   <rect x='36' y='36' width='868' height='148' rx='26' fill='url(#toolsBg)'/>
   <text x='470' y='90' text-anchor='middle' class='heading'>TOOLS &amp; TECHNOLOGY EXPERIENCE</text>
-  <image href='https://skillicons.dev/icons?i=react,nextjs,ts,nodejs,python,fastapi,postgres,prisma,tailwind,threejs,figma,notion&amp;perline=6&amp;theme=dark' x='190' y='108' width='560' height='80'/>
+  <!-- Icons are rendered below in README to avoid external embedding inside SVG (blocked by GitHub). -->
 </svg>

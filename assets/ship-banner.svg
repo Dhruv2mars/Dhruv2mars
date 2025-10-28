@@ -9,12 +9,6 @@
       <stop offset='0%' stop-color='#120F2B'/>
       <stop offset='100%' stop-color='#1E1346'/>
     </linearGradient>
-    <mask id='type-reveal'>
-      <rect x='0' y='0' width='940' height='200' fill='black'/>
-      <rect x='70' y='60' width='0' height='50' fill='white'>
-        <animate attributeName='width' values='0;820;820;0' keyTimes='0;0.6;0.7;1' dur='7s' repeatCount='indefinite' calcMode='spline' keySplines='.4 0 .2 1;.2 0 .2 1;.4 0 .2 1'/>
-      </rect>
-    </mask>
     <style>
       .frame { fill: rgba(12,11,29,0.92); stroke: url(#outer); stroke-width: 2.8; rx: 34; }
       .headline { font-family: 'Space Grotesk','Segoe UI','Helvetica Neue',sans-serif; font-size: 42px; font-weight: 700; letter-spacing: 0.18em; fill: #F8F9FF; }
@@ -24,12 +18,8 @@
   <rect x='6' y='6' width='928' height='188' rx='36' fill='url(#outer)' opacity='0.35'/>
   <rect x='18' y='18' width='904' height='164' class='frame'/>
   <rect x='28' y='28' width='884' height='144' rx='28' fill='url(#inner)' opacity='0.97'/>
-  <g mask='url(#type-reveal)'>
-    <text x='470' y='96' text-anchor='middle' class='headline'>SHIP WHAT USERS ACTUALLY NEED</text>
-  </g>
-  <rect x='72' y='68' width='4' height='34' fill='#FDF2FF'>
-    <animate attributeName='x' values='72;882;882;72' keyTimes='0;0.6;0.7;1' dur='7s' repeatCount='indefinite' calcMode='spline' keySplines='.4 0 .2 1;.2 0 .2 1;.4 0 .2 1'/>
-    <animate attributeName='opacity' values='1;1;0;1' keyTimes='0;0.6;0.63;1' dur='0.8s' repeatCount='indefinite'/>
-  </rect>
+  <text x='470' y='96' text-anchor='middle' class='headline'>SHIP WHAT USERS ACTUALLY NEED</text>
+  <!-- Static caret accent (no animation to avoid GitHub SVG sanitization) -->
+  <rect x='72' y='68' width='4' height='34' fill='#FDF2FF' opacity='0.55'/>
   <text x='470' y='142' text-anchor='middle' class='subtext'>AI-FIRST • HIGH ITERATION • FOUNDER ENERGY</text>
 </svg>
