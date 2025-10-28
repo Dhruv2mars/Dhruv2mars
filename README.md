@@ -19,10 +19,6 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,nodejs,python,fastapi,postgres,prisma,tailwind,threejs,figma,notion&perline=6&theme=dark" alt="Skill icons: React, Next.js, TypeScript, Node.js, Python, FastAPI, Postgres, Prisma, Tailwind, Three.js, Figma, Notion">
-</p>
-
-<p align="center">
   <img src="assets/ship-loop.svg" alt="Ship loop diagram">
 </p>
 

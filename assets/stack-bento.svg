@@ -12,11 +12,41 @@
     <style>
       .frame { fill: rgba(10,12,32,0.92); stroke: url(#toolsBorder); stroke-width: 2.6; rx: 32; }
       .heading { font-family: 'Space Grotesk','Segoe UI','Helvetica Neue',sans-serif; font-size: 24px; font-weight: 700; letter-spacing: 0.32em; fill: #EEF0FF; }
+      .tool { fill: rgba(255,255,255,0.06); stroke: rgba(255,255,255,0.22); stroke-width: 1; rx: 12; }
+      .tool-text { font-family: 'Space Grotesk','Segoe UI','Helvetica Neue',sans-serif; font-size: 14px; font-weight: 700; fill: #E9ECFF; text-anchor: middle; dominant-baseline: middle; }
     </style>
   </defs>
   <rect x='14' y='14' width='912' height='192' rx='34' fill='url(#toolsBorder)' opacity='0.25'/>
   <rect x='26' y='26' width='888' height='168' class='frame'/>
   <rect x='36' y='36' width='868' height='148' rx='26' fill='url(#toolsBg)'/>
-  <text x='470' y='90' text-anchor='middle' class='heading'>TOOLS &amp; TECHNOLOGY EXPERIENCE</text>
-  <!-- Icons are rendered below in README to avoid external embedding inside SVG (blocked by GitHub). -->
+  <text x='470' y='78' text-anchor='middle' class='heading'>TOOLS &amp; TECHNOLOGY EXPERIENCE</text>
+  <!-- Inline tool badges (text-based for reliability on GitHub) -->
+  <g transform='translate(470,128)'>
+    <!-- row 1 -->
+    <rect x='-348' y='-22' width='96' height='44' class='tool'/>
+    <text x='-300' y='0' class='tool-text'>React</text>
+    <rect x='-228' y='-22' width='96' height='44' class='tool'/>
+    <text x='-180' y='0' class='tool-text'>Next.js</text>
+    <rect x='-108' y='-22' width='96' height='44' class='tool'/>
+    <text x='-60' y='0' class='tool-text'>TypeScript</text>
+    <rect x='12' y='-22' width='96' height='44' class='tool'/>
+    <text x='60' y='0' class='tool-text'>Node.js</text>
+    <rect x='132' y='-22' width='96' height='44' class='tool'/>
+    <text x='180' y='0' class='tool-text'>Python</text>
+    <rect x='252' y='-22' width='96' height='44' class='tool'/>
+    <text x='300' y='0' class='tool-text'>FastAPI</text>
+    <!-- row 2 -->
+    <rect x='-348' y='32' width='96' height='44' class='tool'/>
+    <text x='-300' y='54' class='tool-text'>Postgres</text>
+    <rect x='-228' y='32' width='96' height='44' class='tool'/>
+    <text x='-180' y='54' class='tool-text'>Prisma</text>
+    <rect x='-108' y='32' width='96' height='44' class='tool'/>
+    <text x='-60' y='54' class='tool-text'>Tailwind</text>
+    <rect x='12' y='32' width='96' height='44' class='tool'/>
+    <text x='60' y='54' class='tool-text'>Three.js</text>
+    <rect x='132' y='32' width='96' height='44' class='tool'/>
+    <text x='180' y='54' class='tool-text'>Figma</text>
+    <rect x='252' y='32' width='96' height='44' class='tool'/>
+    <text x='300' y='54' class='tool-text'>Notion</text>
+  </g>
 </svg>
