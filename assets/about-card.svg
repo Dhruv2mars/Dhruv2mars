@@ -27,9 +27,9 @@
   <rect x='30' y='30' width='800' height='160' rx='26' fill='url(#aboutInner)' opacity='0.9'/>
   <!-- Absolute baselines for perfect vertical centering within the 160px panel (center at y=110) -->
   <text class='copy'>
-    <tspan x='35' y='80'>👋 Hey, I’m Dhruv Sharma, an AI-first builder and prototype junkie.</tspan>
-    <tspan x='35' y='110'>⚡️ I turn half-baked ideas into working products fast.</tspan>
-    <tspan x='35' y='140'>🔁 I ship, break, and rebuild until things just work.</tspan>
+    <tspan x='35' y='88'>👋 Hey, I’m Dhruv Sharma, an AI-first builder and prototype junkie.</tspan>
+    <tspan x='35' y='118'>⚡️ I turn half-baked ideas into working products fast.</tspan>
+    <tspan x='35' y='148'>🔁 I ship, break, and rebuild until things just work.</tspan>
   </text>
   <!-- Icon chip aligned to card centerline with consistent right padding -->
   <g transform='translate(660,42)'>
