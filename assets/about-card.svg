@@ -23,7 +23,7 @@
   <rect x='8' y='8' width='834' height='204' rx='34' fill='url(#aboutOuter)' opacity='0.4'/>
   <rect x='20' y='20' width='810' height='180' class='layer'/>
   <!-- Text content panel with balanced padding from card edges and chip -->
-  <rect x='30' y='30' width='560' height='160' rx='26' fill='url(#aboutInner)' opacity='0.9'/>
+  <rect x='30' y='30' width='600' height='160' rx='26' fill='url(#aboutInner)' opacity='0.9'/>
   <!-- Vertically center the three lines around the card centerline for equal top/bottom padding -->
   <text class='copy'>
     <tspan x='60' y='110' dy='-30'>👋 Hey, I’m Dhruv Sharma, an AI-first builder and prototype junkie.</tspan>
@@ -31,7 +31,7 @@
     <tspan x='60' dy='30'>🔁 I ship, break, and rebuild until things just work.</tspan>
   </text>
   <!-- Icon chip aligned to card centerline with consistent right padding -->
-  <g transform='translate(640,42)'>
+  <g transform='translate(660,42)'>
     <rect width='160' height='136' class='chip'/>
     <rect x='10' y='10' width='140' height='116' rx='26' fill='url(#iconGlow)'/>
     <circle cx='80' cy='68' r='46' fill='rgba(255,255,255,0.08)' stroke='rgba(255,255,255,0.2)' stroke-width='1.6'/>
