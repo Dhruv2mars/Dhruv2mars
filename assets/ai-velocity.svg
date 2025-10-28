@@ -15,25 +15,23 @@
     <style>
       .wrapper { fill: rgba(10,12,24,0.85); stroke: rgba(255,255,255,0.08); stroke-width: 1.2; rx: 26; }
       .title { font-family: 'Space Grotesk','Segoe UI','Helvetica Neue',sans-serif; font-size: 24px; font-weight: 700; fill: #F8F9FF; letter-spacing: 0.1em; text-anchor: middle; }
-      .subtitle { font-family: 'Space Grotesk','Segoe UI','Helvetica Neue',sans-serif; font-size: 14px; font-weight: 500; fill: #C9CBF5; letter-spacing: 0.2em; text-anchor: middle; }
       .badge { fill: rgba(148,163,184,0.16); stroke: rgba(255,255,255,0.28); stroke-width: 0.9; rx: 14; }
-      .badge-text { font-family: 'Space Grotesk','Segoe UI','Helvetica Neue',sans-serif; font-size: 14px; font-weight: 600; fill: #FDFDFD; letter-spacing: 0.05em; text-anchor: middle; }
+      .badge-text { font-family: 'Space Grotesk','Segoe UI','Helvetica Neue',sans-serif; font-size: 14px; font-weight: 700; fill: #FDFDFD; letter-spacing: 0.02em; text-anchor: middle; dominant-baseline: middle; }
     </style>
   </defs>
   <rect width='720' height='160' fill='url(#grad)' opacity='0.2'/>
   <rect x='24' y='20' width='672' height='120' class='wrapper' filter='url(#glow)'/>
-  <text x='360' y='68' class='title'>THE AI STACK</text>
-  <text x='360' y='94' class='subtitle'>CO-PILOTED BUILD LOOP</text>
-  <g transform='translate(360,116)'>
-    <rect x='-300' y='-22' width='112' height='46' class='badge'/>
-    <text x='-244' y='4' class='badge-text'>Copilot</text>
-    <rect x='-180' y='-22' width='112' height='46' class='badge'/>
-    <text x='-124' y='4' class='badge-text'>Claude Code</text>
-    <rect x='-60' y='-22' width='112' height='46' class='badge'/>
-    <text x='-4' y='4' class='badge-text'>Cursor</text>
-    <rect x='60' y='-22' width='112' height='46' class='badge'/>
-    <text x='116' y='4' class='badge-text'>Codex CLI</text>
-    <rect x='180' y='-22' width='112' height='46' class='badge'/>
-    <text x='236' y='4' class='badge-text'>Ollama</text>
+  <text x='360' y='64' class='title'>THE AI STACK</text>
+  <g transform='translate(360,112)'>
+    <rect x='-332' y='-20' width='120' height='40' class='badge'/>
+    <text x='-272' y='0' class='badge-text'>Copilot</text>
+    <rect x='-196' y='-20' width='120' height='40' class='badge'/>
+    <text x='-136' y='0' class='badge-text'>Claude Code</text>
+    <rect x='-60' y='-20' width='120' height='40' class='badge'/>
+    <text x='0' y='0' class='badge-text'>Cursor</text>
+    <rect x='76' y='-20' width='120' height='40' class='badge'/>
+    <text x='136' y='0' class='badge-text'>Codex CLI</text>
+    <rect x='212' y='-20' width='120' height='40' class='badge'/>
+    <text x='272' y='0' class='badge-text'>Ollama</text>
   </g>
 </svg>
