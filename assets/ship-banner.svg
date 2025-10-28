@@ -21,5 +21,4 @@
   <!-- Center the headline and subtext with equal vertical spacing inside the inner panel (y: 28..172) -->
   <text x='470' y='88' text-anchor='middle' class='headline'>SHIP WHAT USERS ACTUALLY NEED</text>
   <text x='470' y='132' text-anchor='middle' class='subtext'>AI-FIRST • HIGH ITERATION • FOUNDER ENERGY</text>
-  <text x='470' y='142' text-anchor='middle' class='subtext'>AI-FIRST • HIGH ITERATION • FOUNDER ENERGY</text>
 </svg>
