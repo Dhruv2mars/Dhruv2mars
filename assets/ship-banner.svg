@@ -12,7 +12,7 @@
     <style>
       .frame { fill: rgba(12,11,29,0.92); stroke: url(#outer); stroke-width: 2.8; rx: 34; }
       .headline { font-family: 'Space Grotesk','Segoe UI','Helvetica Neue',sans-serif; font-size: 38px; font-weight: 700; letter-spacing: 0.16em; fill: #F8F9FF; }
-      .subtext { font-family: 'Space Grotesk','Segoe UI','Helvetica Neue',sans-serif; font-size: 16px; font-weight: 600; letter-spacing: 0.25em; fill: #CACCF7; text-rendering: geometricPrecision; }
+      .subtext { font-family: 'Space Grotesk', system-ui, -apple-system, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif; font-size: 16px; font-weight: 600; letter-spacing: 0; fill: #CACCF7; text-rendering: optimizeLegibility; }
     </style>
   </defs>
   <rect x='6' y='6' width='928' height='188' rx='36' fill='url(#outer)' opacity='0.35'/>
@@ -20,5 +20,5 @@
   <rect x='28' y='28' width='884' height='144' rx='28' fill='url(#inner)' opacity='0.97'/>
   <!-- Center the headline and subtext with equal vertical spacing inside the inner panel (y: 28..172) -->
   <text x='470' y='88' text-anchor='middle' class='headline'>SHIP WHAT USERS ACTUALLY NEED</text>
-  <text x='470' y='130' text-anchor='middle' class='subtext'>AI-FIRST • HIGH ITERATION • FOUNDER ENERGY</text>
+  <text x='470' y='130' text-anchor='middle' class='subtext' textLength='560' lengthAdjust='spacing'>AI-FIRST • HIGH ITERATION • FOUNDER ENERGY</text>
 </svg>
