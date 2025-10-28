@@ -26,9 +26,9 @@
   <rect x='30' y='30' width='600' height='160' rx='26' fill='url(#aboutInner)' opacity='0.9'/>
   <!-- Vertically center the three lines around the card centerline for equal top/bottom padding -->
   <text class='copy'>
-    <tspan x='60' y='110' dy='-30'>👋 Hey, I’m Dhruv Sharma, an AI-first builder and prototype junkie.</tspan>
-    <tspan x='60' dy='30'>⚡️ I turn half-baked ideas into working products fast.</tspan>
-    <tspan x='60' dy='30'>🔁 I ship, break, and rebuild until things just work.</tspan>
+    <tspan x='50' y='110' dy='-30'>👋 Hey, I’m Dhruv Sharma, an AI-first builder and prototype junkie.</tspan>
+    <tspan x='50' dy='30'>⚡️ I turn half-baked ideas into working products fast.</tspan>
+    <tspan x='50' dy='30'>🔁 I ship, break, and rebuild until things just work.</tspan>
   </text>
   <!-- Icon chip aligned to card centerline with consistent right padding -->
   <g transform='translate(660,42)'>
