@@ -11,28 +11,27 @@
 
 ## Projects
 
-- 💬 **[codexchat](https://github.com/Dhruv2mars/codexchat)** - Chat with ChatGPT from your terminal via Codex bridge
-- 🤖 **[copilotchat](https://github.com/Dhruv2mars/copilotchat)** - Chat with GitHub Copilot from your terminal
-- 🎓 **[project-r](https://github.com/Dhruv2mars/project-r)** - AI Python tutor with voice, local LLM (Gemma 3n)
-- 🏠 **[LocalChat](https://github.com/Dhruv2mars/LocalChat)** - Offline-first AI chat with SQLite + Ollama
-- 🎤 **[SpeakUP](https://github.com/Dhruv2mars/SpeakUP)** - Audio-to-audio local AI chat (macOS)
-- 🎬 **[storyboard](https://github.com/Dhruv2mars/storyboard)** - AI visual storyboard generator with Imagen 4
-- 🎨 **[cinemasketch](https://github.com/Dhruv2mars/cinemasketch)** - Cinematic sketches from text prompts (NVIDIA Sana)
-- 🧭 **[pathwayz](https://github.com/Dhruv2mars/pathwayz)** - AI-powered career advisor for students
-- 📊 **[Investment-portfolio-AI-agent](https://github.com/Dhruv2mars/Investment-portfolio-AI-agent)** - Portfolio analysis with ReAct framework
-- 📝 **[mdv](https://github.com/Dhruv2mars/mdv)** - Terminal markdown visualizer/editor (Rust TUI)
-- 💻 **[Code-Editor](https://github.com/Dhruv2mars/Code-Editor)** - Cross-platform code editor and runner
-- 🧱 **[GridFall](https://github.com/Dhruv2mars/GridFall)** - Tetris in your terminal
-- 🔤 **[wordle](https://github.com/Dhruv2mars/wordle)** - Wordle in your terminal
-- 🐍 **[snake](https://github.com/Dhruv2mars/snake)** - Snake game in your terminal
-- 🍦 **[scoopjoy-GSAP](https://github.com/Dhruv2mars/scoopjoy-GSAP)** - Full GSAP showcase landing page
-- 🎮 **[quizi](https://github.com/Dhruv2mars/quizi)** - Anime quiz app with leaderboards
-- 📒 **[noteit](https://github.com/Dhruv2mars/noteit)** - Offline-first notes (mobile, web, desktop)
-- 🔲 **[block](https://github.com/Dhruv2mars/block)** - TypeGPU-powered grid logo explorer
-- ✋ **[hand-tracking](https://github.com/Dhruv2mars/hand-tracking)** - Real-time hand tracking implementation
-- 🧹 **[detox](https://github.com/Dhruv2mars/detox)** - Digital wellbeing Android app
-- 🏭 **content-factory** (closed-source) - AI content generation tool
-- 📱 **superchant** (closed-source) - Social audio Android app
+- 💬 **[codexchat](https://github.com/Dhruv2mars/codexchat)** - AI Chat app that uses ChatGPT subscription for inference.
+- 🤖 **[copilotchat](https://github.com/Dhruv2mars/copilotchat)** - AI Chat app that uses Github Copilot subscription for inference.
+- 🎓 **[project-r](https://github.com/Dhruv2mars/project-r)** - AI conversational agent in IDE. fully local and offline.
+- 🏠 **[LocalChat](https://github.com/Dhruv2mars/LocalChat)** - Offline-first AI chat app with SQLite + Ollama.
+- 🎤 **[SpeakUP](https://github.com/Dhruv2mars/SpeakUP)** - Audio-to-audio local AI chat app (macOS).
+- 🎬 **[storyboard](https://github.com/Dhruv2mars/storyboard)** - AI visual storyboard generator with Imagen 4.
+- 🎨 **[cinemasketch](https://github.com/Dhruv2mars/cinemasketch)** - Cinematic sketches from text prompts (NVIDIA Sana).
+- 🧭 **[pathwayz](https://github.com/Dhruv2mars/pathwayz)** - AI-powered career advisor for students.
+- 📊 **[Investment-portfolio-AI-agent](https://github.com/Dhruv2mars/Investment-portfolio-AI-agent)** - Portfolio analysis with ReAct framework.
+- 📝 **[mdv](https://github.com/Dhruv2mars/mdv)** - Terminal markdown visualizer/editor (Rust TUI).
+- 💻 **[Code-Editor](https://github.com/Dhruv2mars/Code-Editor)** - Cross-platform code editor and runner.
+- 🧱 **[GridFall](https://github.com/Dhruv2mars/GridFall)** - Tetris in your terminal.
+- 🔤 **[wordle](https://github.com/Dhruv2mars/wordle)** - Wordle in your terminal.
+- 🐍 **[snake](https://github.com/Dhruv2mars/snake)** - Snake game in your terminal.
+- 🎮 **[quizi](https://github.com/Dhruv2mars/quizi)** - Anime quiz app with leaderboards.
+- 📒 **[noteit](https://github.com/Dhruv2mars/noteit)** - Offline-first note-taking app (mobile, web, desktop).
+- 🔲 **[block](https://github.com/Dhruv2mars/block)** - TypeGPU-powered grid logo explorer.
+- ✋ **[hand-tracking](https://github.com/Dhruv2mars/hand-tracking)** - Real-time hand tracking implementation.
+- 🧹 **[detox](https://github.com/Dhruv2mars/detox)** - Digital wellbeing app that blocks app openings on Android.
+- 🏭 **content-factory** (closed-source) - AI content generation tool.
+- 📱 **superchant** (closed-source) - Meditation tracking app on Android.
 
 ## Connect
 
