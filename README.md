@@ -1,37 +1,53 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D0A2C,100:6F00FF&text=Dhruv%20Sharma&fontColor=F8F9FF&fontAlignY=40&desc=Fastest%20Iterating%20AI%20Developer&descAlignY=60&descAlign=52&animation=fadeIn" alt="Dhruv Sharma hero banner">
-</p>
+# Hi, I'm Dhruv 👋
 
-<p align="center">
-  <img src="assets/about-card.svg" alt="About Dhruv Sharma card">
-</p>
+🚀 **Fastest Iterating AI Developer** | 🌐 **[dhruv2mars.vercel.app](https://dhruv2mars.vercel.app)**
 
-<p align="center">
-  <img src="assets/ship-banner.svg" alt="Ship what users actually need banner">
-</p>
+![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Tauri](https://img.shields.io/badge/-Tauri-FFC131?style=flat-square&logo=tauri&logoColor=black)
+![Codex](https://img.shields.io/badge/-Codex-121212?style=flat-square&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
+![CLI](https://img.shields.io/badge/-CLI-000000?style=flat-square&logo=gnu-bash&logoColor=white)
+![Web](https://img.shields.io/badge/-Web-4285F4?style=flat-square&logo=google-chrome&logoColor=white)
+![Desktop](https://img.shields.io/badge/-Desktop-0078D4?style=flat-square&logo=windows&logoColor=white)
+![Mobile](https://img.shields.io/badge/-Mobile-3DDC84?style=flat-square&logo=android&logoColor=white)
 
-<p align="center">
-  <img src="assets/ai-velocity.svg" alt="The AI stack">
-</p>
+> Ship what users actually need.
 
-<p align="center">
-  <img src="assets/stack-bento.svg" alt="Tools and technology experience">
-</p>
+## Projects
 
-<p align="center">
-  <img src="assets/ship-loop.svg" alt="Ship loop diagram">
-</p>
+- 💬 **[codexchat](https://github.com/Dhruv2mars/codexchat)** - Chat with ChatGPT from your terminal via Codex bridge
+- 🤖 **[copilotchat](https://github.com/Dhruv2mars/copilotchat)** - Chat with GitHub Copilot from your terminal
+- 🎓 **[project-r](https://github.com/Dhruv2mars/project-r)** - AI Python tutor with voice, local LLM (Gemma 3n)
+- 🏠 **[LocalChat](https://github.com/Dhruv2mars/LocalChat)** - Offline-first AI chat with SQLite + Ollama
+- 🎤 **[SpeakUP](https://github.com/Dhruv2mars/SpeakUP)** - Audio-to-audio local AI chat (macOS)
+- 🎬 **[storyboard](https://github.com/Dhruv2mars/storyboard)** - AI visual storyboard generator with Imagen 4
+- 🎨 **[cinemasketch](https://github.com/Dhruv2mars/cinemasketch)** - Cinematic sketches from text prompts (NVIDIA Sana)
+- 🧭 **[pathwayz](https://github.com/Dhruv2mars/pathwayz)** - AI-powered career advisor for students
+- 📊 **[Investment-portfolio-AI-agent](https://github.com/Dhruv2mars/Investment-portfolio-AI-agent)** - Portfolio analysis with ReAct framework
+- 📝 **[mdv](https://github.com/Dhruv2mars/mdv)** - Terminal markdown visualizer/editor (Rust TUI)
+- 💻 **[Code-Editor](https://github.com/Dhruv2mars/Code-Editor)** - Cross-platform code editor and runner
+- 🧱 **[GridFall](https://github.com/Dhruv2mars/GridFall)** - Tetris in your terminal
+- 🔤 **[wordle](https://github.com/Dhruv2mars/wordle)** - Wordle in your terminal
+- 🐍 **[snake](https://github.com/Dhruv2mars/snake)** - Snake game in your terminal
+- 🍦 **[scoopjoy-GSAP](https://github.com/Dhruv2mars/scoopjoy-GSAP)** - Full GSAP showcase landing page
+- 🎮 **[quizi](https://github.com/Dhruv2mars/quizi)** - Anime quiz app with leaderboards
+- 📒 **[noteit](https://github.com/Dhruv2mars/noteit)** - Offline-first notes (mobile, web, desktop)
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=20&duration=3000&pause=1200&color=F6C177&center=true&vCenter=true&width=520&lines=Need+a+v1+by+tomorrow%3F;Let%27s+prototype+in+4+hours." alt="CTA typing">
-</p>
+## GitHub Activity
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/dhruv2mars" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:dhruv2mars@gmail.com"><img src="https://img.shields.io/badge/Email-FF4D4D?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://x.com/Dhruv2mars" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
-</p>
+![GitHub Contribution Graph](https://ghchart.rshah.org/Dhruv2mars)
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:6F00FF,100:FF4D4D&section=footer" alt="Footer wave">
-</p>
+## Connect
+
+[![LinkedIn](https://img.shields.io/badge/-dhruv2mars-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhruv2mars)
+[![Email](https://img.shields.io/badge/-dhruv2mars@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:dhruv2mars@gmail.com)
+[![X](https://img.shields.io/badge/-@Dhruv2mars-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/Dhruv2mars)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=flat-square&logo=google-chrome&logoColor=white)](https://dhruv2mars.vercel.app)
+[![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Dhruv2mars)
+
+---
+
+> Ship what users actually need.
