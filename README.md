@@ -29,9 +29,9 @@
 - 🎮 **[quizi](https://github.com/Dhruv2mars/quizi)** - Anime quiz app with leaderboards
 - 📒 **[noteit](https://github.com/Dhruv2mars/noteit)** - Offline-first notes (mobile, web, desktop)
 - 🔲 **[block](https://github.com/Dhruv2mars/block)** - TypeGPU-powered grid logo explorer
-- 🏭 **content-factory** (closed-source) - AI content generation tool
 - ✋ **[hand-tracking](https://github.com/Dhruv2mars/hand-tracking)** - Real-time hand tracking implementation
 - 🧹 **[detox](https://github.com/Dhruv2mars/detox)** - Digital wellbeing Android app
+- 🏭 **content-factory** (closed-source) - AI content generation tool
 - 📱 **superchant** (closed-source) - Social audio Android app
 
 ## Connect
