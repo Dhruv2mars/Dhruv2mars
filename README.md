@@ -28,10 +28,10 @@
 - 🍦 **[scoopjoy-GSAP](https://github.com/Dhruv2mars/scoopjoy-GSAP)** - Full GSAP showcase landing page
 - 🎮 **[quizi](https://github.com/Dhruv2mars/quizi)** - Anime quiz app with leaderboards
 - 📒 **[noteit](https://github.com/Dhruv2mars/noteit)** - Offline-first notes (mobile, web, desktop)
-- 🔲 **block** (closed-source) - TypeGPU-powered grid logo explorer
+- 🔲 **[block](https://github.com/Dhruv2mars/block)** - TypeGPU-powered grid logo explorer
 - 🏭 **content-factory** (closed-source) - AI content generation tool
-- ✋ **hand-tracking** (closed-source) - Real-time hand tracking implementation
-- 🧹 **detox** (closed-source) - Digital wellbeing Android app
+- ✋ **[hand-tracking](https://github.com/Dhruv2mars/hand-tracking)** - Real-time hand tracking implementation
+- 🧹 **[detox](https://github.com/Dhruv2mars/detox)** - Digital wellbeing Android app
 - 📱 **superchant** (closed-source) - Social audio Android app
 
 ## Connect
