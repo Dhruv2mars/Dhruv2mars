@@ -33,6 +33,8 @@
 - 🔲 **block** (closed-source) - TypeGPU-powered grid logo explorer
 - 🏭 **content-factory** (closed-source) - AI content generation tool
 - ✋ **hand-tracking** (closed-source) - Real-time hand tracking implementation
+- 🧹 **detox** (closed-source) - Digital wellbeing Android app
+- 📱 **superchant** (closed-source) - Social audio Android app
 
 ## Connect
 
