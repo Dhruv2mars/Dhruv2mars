@@ -47,7 +47,3 @@
 ### Philosophy
 
 > Ship what users actually need.
-
----
-
-![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=Dhruv2mars.Dhruv2mars&left_color=gray&right_color=blueviolet)
