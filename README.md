@@ -7,7 +7,7 @@
 ![Desktop](https://img.shields.io/badge/-Desktop-6B6B6B?style=flat-square&logo=windows&logoColor=white)
 ![Mobile](https://img.shields.io/badge/-Mobile-7A7A7A?style=flat-square&logo=android&logoColor=white)
 ![Codex](https://img.shields.io/badge/-Codex-121212?style=flat-square&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/-Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![Claude](https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
 
 ## Projects
 
