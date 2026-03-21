@@ -11,6 +11,7 @@
 
 ## Projects
 
+- 🔫 **[gunmetal](https://github.com/Dhruv2mars/gunmetal)** - Local-first AI switchboard. Connect providers, create local keys, one API endpoint.
 - 💬 **[codexchat](https://github.com/Dhruv2mars/codexchat)** - AI Chat app that uses ChatGPT subscription for inference.
 - 🤖 **[copilotchat](https://github.com/Dhruv2mars/copilotchat)** - AI Chat app that uses Github Copilot subscription for inference.
 - 🎓 **[project-r](https://github.com/Dhruv2mars/project-r)** - AI conversational agent in IDE. fully local and offline.
