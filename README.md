@@ -17,10 +17,10 @@
 - 🎓 **[project-r](https://github.com/Dhruv2mars/project-r)** - AI conversational agent in IDE. fully local and offline.
 - 🏠 **[LocalChat](https://github.com/Dhruv2mars/LocalChat)** - Offline-first AI chat app with SQLite + Ollama.
 - 🎤 **[SpeakUP](https://github.com/Dhruv2mars/SpeakUP)** - Audio-to-audio local AI chat app (macOS).
+- 💻 **[openutm-v0](https://github.com/Dhruv2mars/openUTM-v0)** - Cross-platform, open source UTM alternative.
 - 🎬 **[storyboard](https://github.com/Dhruv2mars/storyboard)** - AI visual storyboard generator with Imagen 4.
 - 🎨 **[cinemasketch](https://github.com/Dhruv2mars/cinemasketch)** - Cinematic sketches from text prompts (NVIDIA Sana).
 - 🧭 **[pathwayz](https://github.com/Dhruv2mars/pathwayz)** - AI-powered career advisor for students.
-- 📊 **[Investment-portfolio-AI-agent](https://github.com/Dhruv2mars/Investment-portfolio-AI-agent)** - Portfolio analysis with ReAct framework.
 - 📝 **[mdv](https://github.com/Dhruv2mars/mdv)** - Terminal markdown visualizer/editor (Rust TUI).
 - 💻 **[Code-Editor](https://github.com/Dhruv2mars/Code-Editor)** - Cross-platform code editor and runner.
 - 🧱 **[GridFall](https://github.com/Dhruv2mars/GridFall)** - Tetris in your terminal.
