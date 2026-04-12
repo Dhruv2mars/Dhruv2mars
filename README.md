@@ -11,6 +11,8 @@
 
 ## Projects
 
+- 📱 **[offdex](https://github.com/Dhruv2mars/offdex)** - Local-first Codex mobile app.
+- 🛡️ **[NemoClaw](https://github.com/Dhruv2mars/NemoClaw)** - Reference stack for running OpenClaw securely with managed inference.
 - 🔫 **[gunmetal](https://github.com/Dhruv2mars/gunmetal)** - Local-first AI switchboard. Connect providers, create local keys, one API endpoint.
 - 💬 **[codexchat](https://github.com/Dhruv2mars/codexchat)** - AI Chat app that uses ChatGPT subscription for inference.
 - 🤖 **[copilotchat](https://github.com/Dhruv2mars/copilotchat)** - AI Chat app that uses Github Copilot subscription for inference.
@@ -31,6 +33,8 @@
 - 🔲 **[block](https://github.com/Dhruv2mars/block)** - TypeGPU-powered grid logo explorer.
 - ✋ **[hand-tracking](https://github.com/Dhruv2mars/hand-tracking)** - Real-time hand tracking implementation.
 - 🧹 **[detox](https://github.com/Dhruv2mars/detox)** - Digital wellbeing app that blocks app openings on Android.
+- ⚡ **flash-moe** (closed-source) - Pure C/Metal inference engine for massive MoE models on Apple Silicon.
+- 📰 **contentline** (closed-source) - Next.js workspace for AI topic curation and drafting.
 - 🏭 **content-factory** (closed-source) - AI content generation tool.
 - 📱 **superchant** (closed-source) - Meditation tracking app on Android.
 
