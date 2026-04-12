@@ -11,21 +11,20 @@
 
 ## Projects
 
-- 📱 **[offdex](https://github.com/Dhruv2mars/offdex)** - Local-first Codex mobile app.
-- 🛡️ **[NemoClaw](https://github.com/Dhruv2mars/NemoClaw)** - Reference stack for running OpenClaw securely with managed inference.
+- 📱 **[offdex](https://github.com/Dhruv2mars/offdex)** - Codex mobile app.
 - 🔫 **[gunmetal](https://github.com/Dhruv2mars/gunmetal)** - Local-first AI switchboard. Connect providers, create local keys, one API endpoint.
 - 💬 **[codexchat](https://github.com/Dhruv2mars/codexchat)** - AI Chat app that uses ChatGPT subscription for inference.
 - 🤖 **[copilotchat](https://github.com/Dhruv2mars/copilotchat)** - AI Chat app that uses Github Copilot subscription for inference.
 - 🎓 **[project-r](https://github.com/Dhruv2mars/project-r)** - AI conversational agent in IDE. fully local and offline.
-- 🏠 **[LocalChat](https://github.com/Dhruv2mars/LocalChat)** - Offline-first AI chat app with SQLite + Ollama.
-- 🎤 **[SpeakUP](https://github.com/Dhruv2mars/SpeakUP)** - Audio-to-audio local AI chat app (macOS).
+- 🏠 **[localchat](https://github.com/Dhruv2mars/LocalChat)** - Offline-first AI chat app with SQLite + Ollama.
+- 🎤 **[speakUP](https://github.com/Dhruv2mars/SpeakUP)** - Audio-to-audio local AI chat app (macOS).
 - 💻 **[openutm-v0](https://github.com/Dhruv2mars/openUTM-v0)** - Cross-platform, open source UTM alternative.
 - 🎬 **[storyboard](https://github.com/Dhruv2mars/storyboard)** - AI visual storyboard generator with Imagen 4.
 - 🎨 **[cinemasketch](https://github.com/Dhruv2mars/cinemasketch)** - Cinematic sketches from text prompts (NVIDIA Sana).
 - 🧭 **[pathwayz](https://github.com/Dhruv2mars/pathwayz)** - AI-powered career advisor for students.
 - 📝 **[mdv](https://github.com/Dhruv2mars/mdv)** - Terminal markdown visualizer/editor (Rust TUI).
-- 💻 **[Code-Editor](https://github.com/Dhruv2mars/Code-Editor)** - Cross-platform code editor and runner.
-- 🧱 **[GridFall](https://github.com/Dhruv2mars/GridFall)** - Tetris in your terminal.
+- 💻 **[code-editor](https://github.com/Dhruv2mars/Code-Editor)** - Cross-platform code editor and runner.
+- 🧱 **[gridfall](https://github.com/Dhruv2mars/GridFall)** - Tetris in your terminal.
 - 🔤 **[wordle](https://github.com/Dhruv2mars/wordle)** - Wordle in your terminal.
 - 🐍 **[snake](https://github.com/Dhruv2mars/snake)** - Snake game in your terminal.
 - 🎮 **[quizi](https://github.com/Dhruv2mars/quizi)** - Anime quiz app with leaderboards.
@@ -33,9 +32,7 @@
 - 🔲 **[block](https://github.com/Dhruv2mars/block)** - TypeGPU-powered grid logo explorer.
 - ✋ **[hand-tracking](https://github.com/Dhruv2mars/hand-tracking)** - Real-time hand tracking implementation.
 - 🧹 **[detox](https://github.com/Dhruv2mars/detox)** - Digital wellbeing app that blocks app openings on Android.
-- ⚡ **flash-moe** (closed-source) - Pure C/Metal inference engine for massive MoE models on Apple Silicon.
-- 📰 **contentline** (closed-source) - Next.js workspace for AI topic curation and drafting.
-- 🏭 **content-factory** (closed-source) - AI content generation tool.
+- 📰 **[contentline](https://github.com/Dhruv2mars/contentline)** - Web workspace for AI topic curation and drafting.
 - 📱 **superchant** (closed-source) - Meditation tracking app on Android.
 
 ## Connect
