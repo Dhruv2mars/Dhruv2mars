@@ -33,7 +33,7 @@
 - ✋ **[hand-tracking](https://github.com/Dhruv2mars/hand-tracking)** - Real-time hand tracking implementation.
 - 🧹 **[detox](https://github.com/Dhruv2mars/detox)** - Digital wellbeing app that blocks app openings on Android.
 - 📰 **[contentline](https://github.com/Dhruv2mars/contentline)** - Web workspace for AI topic curation and drafting.
-- 📱 **superchant** (closed-source) - Meditation tracking app on Android.
+- 📱 **[superchant](https://github.com/Dhruv2mars/superchant)**  - Meditation tracking app on Android.
 
 ## Connect
 
