@@ -48,7 +48,7 @@
 
 ## Connect
 
-<a href="https://dhruv2mars.com" target="_blank"><img src="https://img.shields.io/badge/-dhruv2mars.vercel.app-6366F1?style=flat-square&logo=globe&logoColor=white" alt="Portfolio"></a>
+<a href="https://dhruv2mars.com" target="_blank"><img src="https://img.shields.io/badge/-dhruv2mars.com-6366F1?style=flat-square&logo=globe&logoColor=white" alt="Portfolio"></a>
 <a href="mailto:dhruv2mars@gmail.com"><img src="https://img.shields.io/badge/-dhruv2mars@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
 <a href="https://x.com/Dhruv2mars" target="_blank"><img src="https://img.shields.io/badge/-@Dhruv2mars-000000?style=flat-square&logo=x&logoColor=white" alt="X"></a>
 <a href="https://www.linkedin.com/in/dhruv2mars" target="_blank"><img src="https://img.shields.io/badge/-Dhruv_Sharma-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
