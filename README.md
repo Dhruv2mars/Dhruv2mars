@@ -12,39 +12,37 @@
 
 ## Featured projects
 
-- ⏰ **[scheduledtask](https://github.com/Dhruv2mars/scheduledtask)** - Open-source scheduled tasks for Codex, Claude Code, opencode, or any shell command. Captures results and can isolate runs in git worktrees.
-- 🗂️ **[jvcode-cli](https://github.com/Dhruv2mars/jvcode-cli)** - Git-independent automatic file history for ordinary folders, backed by append-only events and content-addressed blobs in SQLite.
-- 🧪 **[relunar](https://github.com/Dhruv2mars/relunar)** - CLI-first GitHub issue reproduction harness. Runs configured probes in Daytona sandboxes and produces local evidence reports.
-- 🕶️ **[prism-os](https://github.com/Dhruv2mars/prism-os)** - Browser simulator for a monocular smart-glasses OS, with gaze, touch, voice, and glass-style UI states.
-- 🌦️ **[weathercast](https://github.com/Dhruv2mars/weathercast)** - Rain-only nowcasting app for iOS, Android, and web. Answers when rain may reach a selected location in the next 120 minutes.
-- 📮 **[pi-queue](https://github.com/Dhruv2mars/pi-queue)** - FIFO queue and steering extension for pi. Queue follow-ups while the coding agent works.
-- 🌙 **[anvaya](https://github.com/Dhruv2mars/anvaya)** - Local-first mobile app for daily measures and lunar and solar calendar marks. No account or cloud sync.
-- 🔫 **[gunmetal](https://github.com/Dhruv2mars/gunmetal)** - Local AI switchboard. Connect providers, create local keys, and use one API endpoint.
+- ⏰ **[scheduledtask](https://github.com/Dhruv2mars/scheduledtask)** - open-source alternative to codex scheduled automation for any agent harness. 
+- 🗂️ **[jvcode-cli](https://github.com/Dhruv2mars/jvcode-cli)** - git-independent automatic file history for ordinary folders, built on sqlite.
+- 🧪 **[relunar](https://github.com/Dhruv2mars/relunar)** - bug reproduction harness for agents to reproduce vague github issues inside sandboxes.
+- 🕶️ **[prism-os](https://github.com/Dhruv2mars/prism-os)** - browser simulator for smart-glasses OS, with gaze, touch, voice, and glass-style UI states.
+- 🌦️ **[weathercast](https://github.com/Dhruv2mars/weathercast)** - rain-only nowcasting mobile app using react native.
+- 📮 **[pi-queue](https://github.com/Dhruv2mars/pi-queue)** - queue and steering extension for pi.
+- 🌙 **[anvaya](https://github.com/Dhruv2mars/anvaya)** - lunar based journaling calendar mobile app.
+- 🔫 **[gunmetal](https://github.com/Dhruv2mars/gunmetal)** - local ai switchboard. connect existing subscription plans.
 
 ## More projects
 
-- 📱 **[offdex](https://github.com/Dhruv2mars/offdex)** - Codex mobile app.
-- 💬 **[codexchat](https://github.com/Dhruv2mars/codexchat)** - AI chat app that uses a ChatGPT subscription for inference.
-- 🤖 **[copilotchat](https://github.com/Dhruv2mars/copilotchat)** - AI chat app that uses a GitHub Copilot subscription for inference.
-- 🎓 **[project-r](https://github.com/Dhruv2mars/project-r)** - Fully local conversational agent in an IDE.
-- 🏠 **[localchat](https://github.com/Dhruv2mars/LocalChat)** - Offline-first AI chat app with SQLite and Ollama.
-- 🎤 **[speakUP](https://github.com/Dhruv2mars/SpeakUP)** - Audio-to-audio local AI chat app for macOS.
-- 💻 **[openutm-v0](https://github.com/Dhruv2mars/openUTM-v0)** - Cross-platform, open-source UTM alternative.
-- 🎬 **[storyboard](https://github.com/Dhruv2mars/storyboard)** - Visual storyboards from text prompts, powered by Imagen 4.
-- 🎨 **[cinemasketch](https://github.com/Dhruv2mars/cinemasketch)** - Cinematic sketches from text prompts, powered by NVIDIA Sana.
-- 🧭 **[pathwayz](https://github.com/Dhruv2mars/pathwayz)** - AI-powered career advisor for students.
-- 📝 **[mdv](https://github.com/Dhruv2mars/mdv)** - Terminal Markdown visualizer/editor in Rust.
-- 💻 **[code-editor](https://github.com/Dhruv2mars/Code-Editor)** - Cross-platform code editor and runner.
-- 🧱 **[gridfall](https://github.com/Dhruv2mars/GridFall)** - Tetris in your terminal.
-- 🔤 **[wordle](https://github.com/Dhruv2mars/wordle)** - Wordle in your terminal.
-- 🐍 **[snake](https://github.com/Dhruv2mars/snake)** - Snake in your terminal.
-- 🎮 **[quizi](https://github.com/Dhruv2mars/quizi)** - Anime quiz app with leaderboards.
-- 📒 **[noteit](https://github.com/Dhruv2mars/noteit)** - Offline-first note-taking app for mobile, web, and desktop.
-- 🔲 **[block](https://github.com/Dhruv2mars/block)** - TypeGPU-powered grid logo explorer.
-- ✋ **[hand-tracking](https://github.com/Dhruv2mars/hand-tracking)** - Real-time hand-tracking implementation.
-- 🧹 **[detox](https://github.com/Dhruv2mars/detox)** - Digital wellbeing app that blocks app openings on Android.
-- 📰 **[contentline](https://github.com/Dhruv2mars/contentline)** - Web workspace for AI topic curation and drafting.
-- 📱 **[superchant](https://github.com/Dhruv2mars/superchant)** - Meditation tracking app for Android.
+- 📱 **[offdex](https://github.com/Dhruv2mars/offdex)** - codex mobile app.
+- 📱 **[superchant](https://github.com/Dhruv2mars/superchant)** - meditation tracking app for android.
+- 🧹 **[detox](https://github.com/Dhruv2mars/detox)** - digital wellbeing app that blocks app openings on android.
+- 💬 **[codexchat](https://github.com/Dhruv2mars/codexchat)** - ai chat app that uses a chatgpt subscription for inference.
+- 🤖 **[copilotchat](https://github.com/Dhruv2mars/copilotchat)** - ai chat app that uses a github copilot subscription for inference.
+- 💻 **[openutm-v0](https://github.com/Dhruv2mars/openUTM-v0)** - cross-platform, open-source utm alternative.
+- 🎬 **[storyboard](https://github.com/Dhruv2mars/storyboard)** - visual storyboards from text prompts, powered by imagen 4.
+- 🎨 **[cinemasketch](https://github.com/Dhruv2mars/cinemasketch)** - cinematic sketches from text prompts, powered by nvidia sana.
+- 🧭 **[pathwayz](https://github.com/Dhruv2mars/pathwayz)** - ai-powered career advisor for students.
+- 📝 **[mdv](https://github.com/Dhruv2mars/mdv)** - terminal markdown visualizer/editor in rust.
+- 💻 **[code-editor](https://github.com/Dhruv2mars/Code-Editor)** - cross-platform code editor and runner.
+- 🧱 **[gridfall](https://github.com/Dhruv2mars/GridFall)** - tetris in your terminal.
+- 🔤 **[wordle](https://github.com/Dhruv2mars/wordle)** - wordle in your terminal.
+- 📒 **[noteit](https://github.com/Dhruv2mars/noteit)** - offline-first note-taking app for mobile, web, and desktop.
+- 🔲 **[block](https://github.com/Dhruv2mars/block)** - typegpu based grid logo explorer.
+- 📰 **[contentline](https://github.com/Dhruv2mars/contentline)** - web workspace for ai topic curation and drafting.
+- 🎓 **[project-r](https://github.com/Dhruv2mars/project-r)** - fully local conversational agent in an ide.
+- 🏠 **[localchat](https://github.com/Dhruv2mars/LocalChat)** - offline-first ai chat app with aqlite and ollama.
+- 🎤 **[speakUP](https://github.com/Dhruv2mars/SpeakUP)** - audio-to-audio local ai chat app for macos.
+
 
 ## Connect
 
