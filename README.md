@@ -9,18 +9,15 @@
 ![Codex](https://img.shields.io/badge/-Codex-121212?style=flat-square&logo=openai&logoColor=white)
 ![Claude](https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
 
-I build local-first tools for coding agents, developer workflows, and small native apps.
 
 ## Featured projects
 
 - ⏰ **[scheduledtask](https://github.com/Dhruv2mars/scheduledtask)** - Open-source scheduled tasks for Codex, Claude Code, opencode, or any shell command. Captures results and can isolate runs in git worktrees.
-- 🧨 **[javelin-cli-v1](https://github.com/Dhruv2mars/javelin-cli-v1)** - Local SQLite timeline for agent-built code. Stores prompts, tool calls, responses, checkpoints, and file snapshots without a cloud account.
 - 🗂️ **[jvcode-cli](https://github.com/Dhruv2mars/jvcode-cli)** - Git-independent automatic file history for ordinary folders, backed by append-only events and content-addressed blobs in SQLite.
 - 🧪 **[relunar](https://github.com/Dhruv2mars/relunar)** - CLI-first GitHub issue reproduction harness. Runs configured probes in Daytona sandboxes and produces local evidence reports.
 - 🕶️ **[prism-os](https://github.com/Dhruv2mars/prism-os)** - Browser simulator for a monocular smart-glasses OS, with gaze, touch, voice, and glass-style UI states.
 - 🌦️ **[weathercast](https://github.com/Dhruv2mars/weathercast)** - Rain-only nowcasting app for iOS, Android, and web. Answers when rain may reach a selected location in the next 120 minutes.
 - 📮 **[pi-queue](https://github.com/Dhruv2mars/pi-queue)** - FIFO queue and steering extension for pi. Queue follow-ups while the coding agent works.
-- ✍️ **[mdv-ts](https://github.com/Dhruv2mars/mdv-ts)** - Terminal-first Markdown visualizer/editor built with TypeScript and OpenTUI.
 - 🌙 **[anvaya](https://github.com/Dhruv2mars/anvaya)** - Local-first mobile app for daily measures and lunar and solar calendar marks. No account or cloud sync.
 - 🔫 **[gunmetal](https://github.com/Dhruv2mars/gunmetal)** - Local AI switchboard. Connect providers, create local keys, and use one API endpoint.
 
@@ -36,7 +33,6 @@ I build local-first tools for coding agents, developer workflows, and small nati
 - 🎬 **[storyboard](https://github.com/Dhruv2mars/storyboard)** - Visual storyboards from text prompts, powered by Imagen 4.
 - 🎨 **[cinemasketch](https://github.com/Dhruv2mars/cinemasketch)** - Cinematic sketches from text prompts, powered by NVIDIA Sana.
 - 🧭 **[pathwayz](https://github.com/Dhruv2mars/pathwayz)** - AI-powered career advisor for students.
-- 📰 **[contentline](https://github.com/Dhruv2mars/contentline)** - Web workspace for AI topic curation and drafting.
 - 📝 **[mdv](https://github.com/Dhruv2mars/mdv)** - Terminal Markdown visualizer/editor in Rust.
 - 💻 **[code-editor](https://github.com/Dhruv2mars/Code-Editor)** - Cross-platform code editor and runner.
 - 🧱 **[gridfall](https://github.com/Dhruv2mars/GridFall)** - Tetris in your terminal.
@@ -52,9 +48,9 @@ I build local-first tools for coding agents, developer workflows, and small nati
 
 ## Connect
 
+<a href="https://dhruv2mars.com" target="_blank"><img src="https://img.shields.io/badge/-dhruv2mars.vercel.app-6366F1?style=flat-square&logo=globe&logoColor=white" alt="Portfolio"></a>
 <a href="mailto:dhruv2mars@gmail.com"><img src="https://img.shields.io/badge/-dhruv2mars@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
 <a href="https://x.com/Dhruv2mars" target="_blank"><img src="https://img.shields.io/badge/-@Dhruv2mars-000000?style=flat-square&logo=x&logoColor=white" alt="X"></a>
-<a href="https://dhruv2mars.vercel.app" target="_blank"><img src="https://img.shields.io/badge/-dhruv2mars.vercel.app-6366F1?style=flat-square&logo=globe&logoColor=white" alt="Portfolio"></a>
 <a href="https://www.linkedin.com/in/dhruv2mars" target="_blank"><img src="https://img.shields.io/badge/-Dhruv_Sharma-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://github.com/Dhruv2mars" target="_blank"><img src="https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
 
